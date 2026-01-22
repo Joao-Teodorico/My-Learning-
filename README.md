@@ -1,24 +1,25 @@
-# 📘 STUDY REPOSITORY – FUNDAMENTALS OF PROGRAMMING LANGUAGES
+📘 STUDY REPOSITORY – FUNDAMENTALS OF PROGRAMMING LANGUAGES
 
----
+This repository aims to document the learning process of fundamental programming concepts, with a focus on web development, back-end programming, and the use of Linux as a development environment.
 
-This repository is intended to document the learning process focused on the **fundamentals of various programming languages**, with an emphasis on concepts related to **web development** and **back-end programming**.
+📚 Content
 
-## 📚 Proposed Content
+The studies included in this repository cover the following topics:
 
-The content included in this repository covers introductory studies in the following programming languages:
+Java – OOP (Object-Oriented Programming) concepts, control structures, and basic syntax.
 
-- **Java** – Object-oriented programming concepts, control structures, and basic syntax  
-- **JavaScript** – Language fundamentals, DOM manipulation, event handling, and front-end logic  
-- **Python** – Data types, conditional and loop structures, functions, and modules  
-- **C** – Program structure, use of pointers, functions, and principles of low-level programming  
-- **HTML and CSS** – Semantic structuring of web pages and styling through Cascading Style Sheets  
+JavaScript – Language fundamentals, DOM (Document Object Model) manipulation, events, and front-end logic.
 
-## 🎯 General Objective
+Python – Data types, conditional and loop structures, functions, and modules.
 
-The purpose of this repository is to consolidate knowledge through the practice of exercises and the implementation of simple examples.  
-**At this stage, the development of complete projects is not intended.**
+C – Program structure, use of pointers, functions, and low-level programming principles.
 
-The primary focus is on progressively deepening the understanding of the **core concepts** of each language studied.
+HTML and CSS – Semantic web page structure and styling with CSS (Cascading Style Sheets).
 
----
+Linux – Command-line usage, fundamental commands, filesystem organization, and basic automation in Unix-like environments.
+
+🎯 Objective
+
+The purpose of this repository is to consolidate knowledge through practice, using exercises and simple examples.
+
+At this stage, the development of complete projects is not intended. The primary focus is on the progressive deepening of core concepts related to programming languages and the Linux environment, serving as a foundation for future studies in back-end development, systems, and information security
