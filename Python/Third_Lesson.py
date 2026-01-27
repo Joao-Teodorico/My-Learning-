@@ -18,3 +18,9 @@ print (5.4,8.2)
 print ( type ('Joao') )
 print ( type (32) )
 print ( type (1.1) )
+
+#Boolean - Boolean values
+#Boolean values represent truth values : True or False
+print(10 == 10) #True
+print(10 ==100) #False
+print(type(10 ==100)) #False
